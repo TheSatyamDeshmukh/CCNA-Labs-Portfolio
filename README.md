@@ -1,57 +1,54 @@
-# 📡 CCNA 200-301 — Study Notes
+# 📚 CCNA 200-301 Study Notes
+### Networking Fundamentals — Complete Reference Guide
 
-> Personal study notes, labs, and practice questions
-> for the Cisco CCNA 200-301 exam.
-
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Exam](https://img.shields.io/badge/Exam-CCNA%20200--301-blue)
-![Last Updated](https://img.shields.io/badge/Updated-April%202026-green)
-
----
-
-## 📚 Modules
-
-| # | Topic | Status |
-|---|-------|--------|
-| 01 | [Network Fundamentals](./01-Network-Fundamentals/) | ✅ Done |
-| 02 | [IP Addressing & Subnetting](./02-IP-Addressing-Subnetting/) |✅ Done |
-| 03 | [Switching & VLANs](./03-Switching-VLANs/) | ✅ Done |
-| 04 | [Protocols ]() | ✅ Done |
-| 05 | [Routing (RIP, OSPF, EIGRP)](./04-Routing/) |✅ Done |
-| 06 | [Security & ACLs](./05-Security/) | ⬜ Not Started |
+> **Exam Code:** Cisco CCNA 200-301  
+> **Topic Coverage:** Networking Fundamentals (OSI Model, TCP/IP, Protocols, Addressing)  
+> **Format:** Detailed notes with explanations, examples, and ASCII diagrams  
+> **Last Updated:** 2025
 
 ---
 
-## 🧪 Labs
+## 📁 Table of Contents
 
-All Packet Tracer labs are in the [Labs-PacketTracer](./Labs-PacketTracer/) folder.
-Each lab has a matching README with topology and objectives.
-
----
-
-## 📝 Practice Exams
-
-Q&A style practice tests are inside [Practice-Exams](./Practice-Exams/).
-Each file has answers with full explanations.
+| # | Topic | File | Status |
+|---|-------|------|--------|
+| 01 | OSI Model — Layers, Functions & Mnemonics | [01_OSI_Model.md](./01_OSI_Model.md) | ✅ Complete |
+| 02 | TCP/IP Model — Comparison & Deep Dive | [02_TCPIP_Model.md](./02_TCPIP_Model.md) | ✅ Complete |
+| 03 | IP Addressing — IPv4, Subnetting & CIDR | [03_IP_Addressing.md](./03_IP_Addressing.md) | ✅ Complete |
+| 04 | IPv6 Addressing & Transition Mechanisms | [04_IPv6.md](./04_IPv6.md) | ✅ Complete |
+| 05 | TCP vs UDP — Transport Layer Protocols | [05_TCP_vs_UDP.md](./05_TCP_vs_UDP.md) | ✅ Complete |
 
 ---
 
-## 🎯 My Exam Goal
+## 🎯 How to Use These Notes
 
-- [x] Complete all module notes
-- [x] Finish all Packet Tracer labs
-- [ ] Score 80%+ on practice exams
-- [ ] Book exam date
-- [ ] Pass CCNA 200-301 🎉
-
----
-
-## 📖 Resources I'm Using
-
-- [x] Cisco Official Cert Guide (OCG)
-- [x] [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab) — YouTube
-- [ ] Packet Tracer (free from Cisco NetAcad)
+- **Sequential Study:** Start from `01_OSI_Model.md` and progress in order
+- **Quick Reference:** Jump to any file based on the topic you need
+- **Exam Prep:** Each file includes a **Key Takeaways** and **Exam Tips** section
+- **Practice:** Look for 💡 **Example** blocks and ⚠️ **Common Mistake** callouts
 
 ---
 
-*Last updated: April 2026 | Made with ❤️ while studying for CCNA*
+## 📌 CCNA 200-301 Exam Domains Covered Here
+
+| Domain | Weight | Notes Coverage |
+|--------|--------|----------------|
+| 1.0 Network Fundamentals | 20% | ✅ Full coverage in this set |
+| 2.0 Network Access | 20% | 🔜 Coming soon |
+| 3.0 IP Connectivity | 25% | 🔜 Coming soon |
+| 4.0 IP Services | 10% | 🔜 Coming soon |
+| 5.0 Security Fundamentals | 15% | 🔜 Coming soon |
+| 6.0 Automation & Programmability | 10% | 🔜 Coming soon |
+
+---
+
+## 🛠 Tools & Resources
+
+- **Cisco Packet Tracer** — Free network simulation tool (recommended for labs)
+- **GNS3** — Advanced emulation for real IOS images
+- **Boson NetSim** — Exam-style lab practice
+- **Cisco Learning Network** — [learningnetwork.cisco.com](https://learningnetwork.cisco.com)
+
+---
+
+*These notes are written for deep understanding, not just memorization. Good luck! 🚀*
