@@ -17,6 +17,8 @@
 | 03 | IP Addressing — IPv4, Subnetting & CIDR | [03_IP_Addressing.md](./03_IP_Addressing.md) | ✅ Complete |
 | 04 | IPv6 Addressing & Transition Mechanisms | [04_IPv6.md](./04_IPv6.md) | ✅ Complete |
 | 05 | TCP vs UDP — Transport Layer Protocols | [05_TCP_vs_UDP.md](./05_TCP_vs_UDP.md) | ✅ Complete |
+| 06 | Switching & VLANs                      | [06_Switching_VLANs.md](./06_Switching_VLANs.md) | ✅ Complete |
+| 07 | Routing_Fundamentals                   | [07_Routing_Fundamentals.md](./07_Routing_Fundamentals.md) | ✅ Complete |
 
 ---
 
