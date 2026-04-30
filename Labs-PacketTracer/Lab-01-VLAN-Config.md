@@ -154,11 +154,11 @@ PC-A> ping 192.168.20.10
 
 ## ✅ Lab Completion Checklist
 
-- [ ] VLANs 10 and 20 created successfully
-- [ ] Ports assigned to correct VLANs
-- [ ] `show vlan brief` shows correct output
-- [ ] PC-A cannot ping PC-B (confirming VLAN isolation)
-- [ ] Configuration saved with `write memory`
+- ✅ VLANs 10 and 20 created successfully
+- ✅ Ports assigned to correct VLANs
+- ✅ `show vlan brief` shows correct output
+- ✅ PC-A cannot ping PC-B (confirming VLAN isolation)
+- ✅ Configuration saved with `write memory`
 
 ---
 
