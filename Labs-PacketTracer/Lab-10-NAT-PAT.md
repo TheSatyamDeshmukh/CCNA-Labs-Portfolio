@@ -158,12 +158,12 @@ Hits: 24   Misses: 0
 
 ## ✅ Lab Completion Checklist
 
-- [ ] `ip nat inside` set on Gi0/0 (LAN side)
-- [ ] `ip nat outside` set on Gi0/1 (WAN side)
-- [ ] Static NAT configured for Web Server (192.168.1.100 → 203.0.113.100)
-- [ ] PAT configured for LAN subnet (192.168.1.0/24 → Gi0/1 overload)
-- [ ] `show ip nat translations` shows active entries
-- [ ] PC-A can reach internet (ping 8.8.8.8)
+- [✅] `ip nat inside` set on Gi0/0 (LAN side)
+- [✅] `ip nat outside` set on Gi0/1 (WAN side)
+- [✅] Static NAT configured for Web Server (192.168.1.100 → 203.0.113.100)
+- [✅] PAT configured for LAN subnet (192.168.1.0/24 → Gi0/1 overload)
+- [✅] `show ip nat translations` shows active entries
+- [✅] PC-A can reach internet (ping 8.8.8.8)
 
 ---
 
