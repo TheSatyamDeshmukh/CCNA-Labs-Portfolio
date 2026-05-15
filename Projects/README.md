@@ -13,7 +13,7 @@
 
 | # | Project | Level | Topics | Status |
 |---|---------|-------|--------|--------|
-| 01 | [Zone-Based Firewall (ZBF)](./Project-01-ZBF.md) | Intermediate | ZBF, Zones, Policy-Map | ⬜ |
+| 01 | [Zone-Based Firewall (ZBF)](./Project-01-ZBF.md) | Intermediate | ZBF, Zones, Policy-Map | ✅ |
 | 02 | [ACL-Based Security Policy](./Project-02-ACL-Policy.md) | Intermediate | Extended ACL, Reflexive ACL, Logging | ⬜ |
 | 03 | [Site-to-Site IPsec VPN](./Project-03-IPsec-VPN.md) | Intermediate | IKEv1, IPsec, Crypto Map | ⬜ |
 | 04 | [AAA with RADIUS Server](./Project-04-AAA-RADIUS.md) | Advanced | AAA, RADIUS, TACACS+, 802.1X | ⬜ |
