@@ -170,8 +170,8 @@ PC-A> ping 192.168.20.10   (PC-B — different VLAN — should FAIL ❌)
 
 ## ✅ Lab Completion Checklist
 
-- [ ] VLANs 10, 20, 99 created on both switches
-- [ ] Trunk configured on Gi0/1 of SW1 and SW2
+- [✅] VLANs 10, 20, 99 created on both switches
+- [✅] Trunk configured on Gi0/1 of SW1 and SW2
 - [ ] Native VLAN set to 99 on both sides
 - [ ] PC-A can ping PC-C (same VLAN across switches)
 - [ ] PC-A cannot ping PC-B (different VLAN — correct!)
