@@ -166,7 +166,8 @@ PC-A> ping 192.168.20.10   (PC-B — should WORK ✅ Inter-VLAN routing!)
 ✅ Subinterface Fa0/0.20 has IP 192.168.20.1
 
 ✅ PC-A can ping PC-B (inter-VLAN routing works!)
- `show ip route` shows both subnets as connected
+
+✅ `show ip route` shows both subnets as connected
 
 ---
 
