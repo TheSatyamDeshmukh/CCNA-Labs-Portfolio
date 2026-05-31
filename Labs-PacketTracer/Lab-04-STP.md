@@ -168,7 +168,7 @@ Gi0/2               Altn BLK 4         128.2    P2p   ← BLOCKED!
 -✅  SW3 has a Root Port and one Blocked (Altn) port
 
 ✅ No loops exist in the network
--  Understood all 4 STP port states
+-✅ Understood all 4 STP port states
 
 ---
 
