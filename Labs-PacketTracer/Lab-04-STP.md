@@ -164,7 +164,7 @@ Gi0/2               Altn BLK 4         128.2    P2p   ← BLOCKED!
 -✅ SW1 is confirmed as Root Bridge in `show spanning-tree`
 
 -✅ SW2 has a Root Port facing SW1
--  SW3 has a Root Port and one Blocked (Altn) port
+-✅  SW3 has a Root Port and one Blocked (Altn) port
 -  No loops exist in the network
 -  Understood all 4 STP port states
 
