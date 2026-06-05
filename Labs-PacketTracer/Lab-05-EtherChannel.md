@@ -156,7 +156,7 @@ Group  Port-channel  Protocol    Ports
 
 ## ✅ Lab Completion Checklist
 
- EtherChannel formed (Po1 shows `SU` in summary)
+✅ EtherChannel formed (Po1 shows `SU` in summary)
 - [ ] Both Gi0/1 and Gi0/2 show `P` (bundled)
 - [ ] Port-Channel1 configured as trunk
 - [ ] `show interfaces port-channel 1` shows UP/UP
