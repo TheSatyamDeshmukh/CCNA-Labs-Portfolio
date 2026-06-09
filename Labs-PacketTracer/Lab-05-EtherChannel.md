@@ -161,6 +161,7 @@ Group  Port-channel  Protocol    Ports
 ✅ Both Gi0/1 and Gi0/2 show `P` (bundled)
 
 ✅ Port-Channel1 configured as trunk
+
 ✅ `show interfaces port-channel 1` shows UP/UP
 - [ ] Tested by disabling one link — traffic still flows
 
