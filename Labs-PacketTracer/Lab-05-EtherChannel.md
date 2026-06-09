@@ -163,7 +163,7 @@ Group  Port-channel  Protocol    Ports
 ✅ Port-Channel1 configured as trunk
 
 ✅ `show interfaces port-channel 1` shows UP/UP
-- [ ] Tested by disabling one link — traffic still flows
+ Tested by disabling one link — traffic still flows
 
 ---
 
